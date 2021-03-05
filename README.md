@@ -7,6 +7,9 @@
 - ⚡️ Javascript is my main focus, but I’m also currently learning more front-end technologies, such as getting more comfortable in sass. 
 - ⚡️ I accept messages here or on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **qualmless/qualmless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

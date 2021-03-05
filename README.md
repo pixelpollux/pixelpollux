@@ -1,5 +1,7 @@
-### 👋🏾 Hi, I'm Tara! Thanks for visiting! 👋🏾 
-### (she/her)
+### 👋🏾 Hi, I'm Tara! Thanks for visiting! 👋🏾 (she/her)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qualmless)
+<BR>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qualmless&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 - ⚡️ I've just finished two bootcamps in a row, one javascript and java, the other MERN stack. 
 - ⚡️ Javascript is my main focus, but I’m also currently learning more front-end technologies, such as getting more comfortable in sass. 

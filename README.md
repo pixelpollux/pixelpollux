@@ -8,6 +8,9 @@
 - ⚡️ I accept messages here or on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--

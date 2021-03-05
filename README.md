@@ -1,4 +1,4 @@
-### 👋🏾 Hi, I'm Tara! Thanks for visiting! 👋🏾 (she/her)
+### 👋🏾 Hi, I'm Tara (she/her)! Thanks for visiting! 👋🏾
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=qualmless)
 <BR>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qualmless&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

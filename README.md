@@ -11,8 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-SCSS         3 hrs 33 mins   ████████████████████████▓   98.09 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+SCSS         1 hr 57 mins    ████████████████████████▓   98.99 % 
 ```
 <!--END_SECTION:waka-->
 

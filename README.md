@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-SCSS         1 hr 40 mins    ████████████████████████▓   98.84 % 
+SCSS         1 hr 40 mins    ████████████████████████▓   98.83 % 
 ```
 <!--END_SECTION:waka-->
 

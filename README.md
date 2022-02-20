@@ -11,8 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 5 mins
-
 SCSS         4 hrs 40 mins   ███████████████████▒░░░░░   76.82 % 
 HTML         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 CSS          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 

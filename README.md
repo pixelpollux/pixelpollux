@@ -10,13 +10,16 @@
 ⚡️ I accept messages here or on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>
 
 <!--START_SECTION:waka-->
+
 ```text
-SCSS         4 hrs 16 mins   ██████████████████▓░░░░░░   75.21 % 
-CSS          40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-HTML         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-XML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+SCSS         3 hrs 39 mins   ██████████████████▓░░░░░░   74.87 %
+CSS          36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+HTML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+XML          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--

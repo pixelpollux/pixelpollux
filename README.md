@@ -12,12 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         16 mins         █████████████████████░░░░   84.09 %
-XML          2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

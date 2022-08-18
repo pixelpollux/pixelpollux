@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 mins          ██████████████████████▓░░   91.16 %
-Git Config   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

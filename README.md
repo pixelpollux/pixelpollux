@@ -12,8 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML          2 mins          ████████████████████████▓   99.13 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

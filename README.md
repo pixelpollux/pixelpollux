@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         0 secs          ███████████████▒░░░░░░░░░   60.96 %
-TypeScript   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-XML          0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Java         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

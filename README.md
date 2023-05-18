@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-EJS          0 secs          █████████████░░░░░░░░░░░░   51.37 %
-CSS          0 secs          ██████████░░░░░░░░░░░░░░░   40.49 %
-JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

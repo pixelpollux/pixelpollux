@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 mins          ███████████▒░░░░░░░░░░░░░   44.76 %
-PHP          2 mins          █████████░░░░░░░░░░░░░░░░   35.98 %
-YAML         1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-SQL          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

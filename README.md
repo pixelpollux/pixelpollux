@@ -9,6 +9,8 @@
 
 ⚡️ Two-time bootcamp grad.
 
+⚡️ Most of my commits are on my company (private) github.
+
 ⚡️ Comfy with AEM, learning WordPress.
 
 ⚡️ I accept messages here or on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>

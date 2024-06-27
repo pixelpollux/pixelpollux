@@ -1,7 +1,7 @@
 ### 👋🏾 Hi, I'm Tara (she/her)! Thanks for visiting! 👋🏾
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qualmless)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pixelpollux)
 <BR>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qualmless&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixelpollux&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ⚡️ Front-end dev, design background.
 
@@ -24,7 +24,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <!--
-**qualmless/qualmless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pixelpollux/pixelpollux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...

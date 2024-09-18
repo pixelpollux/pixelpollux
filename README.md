@@ -13,7 +13,7 @@
 
 ⚡️ Comfy with AEM, learning WordPress.
 
-⚡️ I accept messages on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a> or <a href="mailto:me@taradunmore.com" target="_blank">emails</a> 
+⚡️ I accept <a href="mailto:me@taradunmore.com" target="_blank">emails</a> or messages on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>.
 
 <!--START_SECTION:waka-->
 

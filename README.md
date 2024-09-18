@@ -1,7 +1,9 @@
 ### 👋🏾 Hi, I'm Tara (she/her)! Thanks for visiting! 👋🏾
+<!-- hold this for a sec
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pixelpollux)
 <BR>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixelpollux&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+-->
 
 ⚡️ Front-end dev, design background.
 

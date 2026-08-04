@@ -7,13 +7,11 @@
 
 ⚡️ Front-end dev, design background.
 
-⚡️ Blossoming Sass master.
+⚡️ Sass (SCSS) master.
 
 ⚡️ Two-time bootcamp grad.
 
-⚡️ Most of my commits are on my company (private) github.
-
-⚡️ Comfy with AEM, learning WordPress.
+⚡️ Comfy with AEM and WordPress, learning Contentful.
 
 ⚡️ I accept <a href="mailto:me@taradunmore.com" target="_blank">emails</a> or messages on <a href="https://www.linkedin.com/in/tarajdunmore/">linkedin</a>.
 

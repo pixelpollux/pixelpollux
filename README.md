@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/pixelpollux">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=#FE019A&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Tara" alt="Hello! I&#39;m Tara" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FE019A&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Tara" alt="Hello! I&#39;m Tara" />
   </a>
 </p>
 
@@ -114,4 +114,3 @@ Front-end developer with a design background. I build design systems, care a lot
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/pixelpollux">pixelpollux</a></i></p>
-
